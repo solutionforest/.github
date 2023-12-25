@@ -3,7 +3,7 @@
 
 ## About Solution Forest
 
-[Solution Forest](https://solutionforest.com) crafts web applications & open source packages in the Laravel ecosystem. 
+[Solution Forest](https://solutionforest.com) Web development agency based in Hong Kong. We help customers to solve their problems. We Love Open Soruces. 
 
 We have built a collection of best-in-class products:
 
