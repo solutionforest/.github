@@ -11,4 +11,8 @@ We have built a collection of best-in-class products:
 - [GatherPro.events](https://gatherpro.events): A Event Photos management tools, Streamline Your Event Photos.
 - [Website CMS Management](https://filamentphp.com/plugins/solution-forest-cms-website): Website CMS Management
 
+Open source application:
+
+- [Watchdog](https://github.com/solutionforest/Watchdog): A Uptime monitor, Desktop Application.
+
 You can also sponsor our open source work [via GitHub Sponsors](https://github.com/sponsors/solutionforest)
