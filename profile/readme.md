@@ -14,6 +14,8 @@ We have built a collection of best-in-class products:
 
 Open source application:
 
+- [Simple Docker Agent](https://github.com/solutionforest/simple-docker-agent): A lightweight Python-based agent that provides real-time monitoring of Docker containers and host system resources.
 - [Watchdog](https://github.com/solutionforest/Watchdog): A Uptime monitor, Desktop Application.
+- [ocpp-php](https://github.com/solutionforest/ocpp-php): PHP implementation of the Open Charge Point Protocol (OCPP).
 
 You can also sponsor our open source work [via GitHub Sponsors](https://github.com/sponsors/solutionforest)
