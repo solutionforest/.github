@@ -7,6 +7,7 @@
 We have built a collection of best-in-class products:
 
 - [Vxero Neo](https://neo.vxero.dev): Vxero Neo - Deploy to any VPS from your terminal.
+- [Vxero](https://vxero.com): Vxero - Deploy Without DevOps Complexity
 - [InspireCMS](https://inspirecms.net): A full-featured Laravel CMS with everything you need out of the box. Build smarter, ship faster with our complete content management solution.
 - [Filaletter](https://filaletter.solutionforest.net): Filaletter - Filament Newsletter Plugin
 - [Website CMS Management](https://filamentphp.com/plugins/solution-forest-cms-website): A hands-on Filament CMS plugin for those who prefer more manual control over their website content management.
