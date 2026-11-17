@@ -14,6 +14,7 @@ We have built a collection of best-in-class products:
 
 Open source application:
 
+- [Flow Explainer](https://flow-explainer.laravel.cloud/): Flow Explainer - Paste a GitHub markdown diagram, get an animated step-by-step walkthrough you can send to a client.
 - [ForgeDesk](https://github.com/solutionforest/ForgeDesk): Zero-config developer tools. One click to install. One click to run.
 - [Watchdog](https://github.com/solutionforest/Watchdog): A Uptime monitor, Desktop Application.
 - [ocpp-php](https://github.com/solutionforest/ocpp-php): PHP implementation of the Open Charge Point Protocol (OCPP).
